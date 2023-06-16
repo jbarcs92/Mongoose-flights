@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+thead > tr {
+display: flex;
+justify-content: flex-start;
+}
+
+th {
+  padding-right: 15vmin;
+  text-align: left;
+  text-decoration: underline;
+}
+
+tr {
+  display: flex;
+  justify-content: space-between;
+}
+
+td {
+  padding-right: 15vmin;
+  text-align: left;
+}
